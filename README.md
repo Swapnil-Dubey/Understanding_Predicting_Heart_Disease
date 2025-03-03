@@ -31,4 +31,5 @@ Clinical decision support system analyzing 13 medical parameters to predict card
 | OLS    | 79.8%    | 82.8%     | 80.3%  | 0.84    |
 | Lasso  | 79.8%    | 84.4%     | 79.4%  | 0.83    |
 
-## Installation ⚙️
+## Setup ⚙️
+install.packages(c("dplyr", "glmnet", "rsample", "GGally"))
